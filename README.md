@@ -6,6 +6,8 @@
 
 This repo shows how to install Capybara, along with PhantomJS through the gem [Poltergeist](https://github.com/teampoltergeist/poltergeist).
 
+The [Docker image](https://github.com/paulsturgess/docker_ruby_phantomjs) installs Ruby and PhantomJS
+
 - Install [Docker](https://www.docker.com/)
 - $ docker-compose build
 - $ docker-compose up
